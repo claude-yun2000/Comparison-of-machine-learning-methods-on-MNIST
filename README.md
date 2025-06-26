@@ -24,3 +24,5 @@ Dimension reduction may enhance both computational efficiency and model performa
 
 #### Metrics for model evaluation
 While mean squared error is a good metric for regression tasks, accuracy, precision, recall and F1-score are more appropriate for classifications. Precision or recall may be more appropriate when the cost of false positive or false negative is high, but this is not a concern in identifying the digits in this project. Although accuracy can be misleading for imbalanced dataset, this is not the case for the MNIST dataset (as shown in the previous figure), therefore accuracy becomes a natural choice of the metric. Confusion matrices may help us identify the areas for improvement, hence will also be included to assist our analysis.
+
+## Full report and the Python code (please refer to the Jupyter Notebook file)
